@@ -7,7 +7,9 @@
 Foram implementadas duas suítes de testes automatizados:
 
 1 - Fluxo de criação de conta
-- Estruturado utilizando o padrão Page Objects, para maior organização e reutilização de código.
+- Implementado com o padrão Page Objects, que organiza o código separando as páginas e suas ações em classes.
+- Esse padrão facilita a manutenção, a reutilização de código e torna os testes mais legíveis.
 
 2 - Fluxo de checkout (carrinho de compras)
-- Desenvolvido com AppActions, simulando interações mais próximas da experiência real do usuário.
+- Desenvolvido utilizando AppActions, uma abordagem que simula ações do usuário na aplicação.
+- Com isso, é possível validar a experiência real de uso, cobrindo o processo desde a adição de produtos até a finalização da compra.
