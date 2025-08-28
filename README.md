@@ -1,6 +1,6 @@
 <h1 align="center"> Automação de UI com Cypress </h1>
 
-# Módulo 22 do curso: Engenheiro de Qualidade de Software - EBAC
+## Módulo 22 do curso: Engenheiro de Qualidade de Software - EBAC
 - Este repositório reúne dois exercícios de automação de testes desenvolvidos ao longo do módulo. Foi utilizado o e-commerce de teste "http://lojaebac.ebaconline.art.br" como base de prática.
 
 ## Foram implementadas duas suítes de testes automatizados:
