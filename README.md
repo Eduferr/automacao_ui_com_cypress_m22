@@ -12,4 +12,4 @@
 
 2 - Fluxo de checkout (carrinho de compras)
 - Desenvolvido utilizando AppActions, uma abordagem que simula ações do usuário na aplicação.
-- Com isso, é possível validar a experiência real de uso, cobrindo o processo desde a seleção de produtos até a finalização da compra.
+- Com isso, é possível validar a experiência real de uso, cobrindo o processo desde a seleção do produto até a finalização da compra.
